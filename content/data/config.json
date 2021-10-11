@@ -24,7 +24,7 @@
     },
     "footer": {
         "content": "&copy; United Roofing and Construction Services",
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
